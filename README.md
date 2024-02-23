@@ -1,4 +1,4 @@
-# Mexico Restaurant Rating Dashboard
+# MEXICO RESTAURANT RATING ANALYSIS
 
 ![](Mexico_Restaurant.jpeg)
 ---
